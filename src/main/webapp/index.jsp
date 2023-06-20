@@ -4,7 +4,7 @@
 
 </head>
 <body>
-	<h1>Hello team ; Wellcome to Devops Training -5th-newjob</h1>
+	<h1>Hello team ; Wellcome to Devops Training -6th-newjob</h1>
 	<h1>Devops Training</h1>
 	<p>
 		It is now
